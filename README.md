@@ -5,7 +5,9 @@ SQL scripts
 
 SELECT 
     first_name, 
+    
     last_name, 
+    
     gender, 
     salary, 
     COUNT(gender) OVER (PARTITION BY gender) AS total_gender
