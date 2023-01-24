@@ -1,2 +1,2 @@
-# SQL-Scripts
+# SQL_Scripts
 SQL scripts 
